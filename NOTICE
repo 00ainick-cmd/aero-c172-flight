@@ -1,0 +1,15 @@
+AERO Cessna 172 (built site)
+
+This repository contains only the compiled, static build of the AERO Cessna 172S
+browser flight simulator. The source code is kept in a separate private repository.
+
+Third-party software
+--------------------
+Flight dynamics, world generation and the core simulator are derived from
+Tater's Flight Sim (tatertotsflightsim) by Jared Tate,
+https://github.com/JaredTate/tatertotsflightsim
+Copyright (c) 2026 Jared Tate. Licensed under the MIT License; the full license
+text is in the LICENSE file in this repository and applies to that code.
+
+Three.js (https://threejs.org), Copyright (c) 2010-present three.js authors,
+MIT License, is bundled in assets/three-*.js.
